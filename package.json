@@ -1,0 +1,9 @@
+{
+  "name": "expiry-planner",
+  "private": true,
+  "scripts": {
+    "setup": "npm install && npm install --prefix server && npm install --prefix client && pip install -r solver/requirements.txt",
+    "dev": "concurrently -n api,web,solver -c blue,green,magenta \"npm run dev --prefix server\" \"npm run dev --prefix client\" \"python solver/solver_app.py\""
+  },
+  "devDependencies": { "concurrently": "^9.0.1" }
+}
