@@ -3,9 +3,6 @@
 Quantum Optimization for Last-Mile Delivery Route and Warehouse Inventory Planning
 Capstone ASAC-CP-006 (CSE-AIML), Alliance School of Advanced Computing
 
-**Team:** Ashwini, Nishigandha Choudhury, Miyana S Kausthub | **Mentor:** Dr. Tina Babu
-**Base paper:** Fedouaki et al. 2026, *Logistics* (MDPI) 10(3):67
-
 ## Problem
 
 Perishable orders can be shipped from any of 3 warehouses. Shipping from the nearest one keeps trips short but lets stock expire. This app decides which warehouse ships each order, using stock expiry and distance, and compares several methods on the same orders.
