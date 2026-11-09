@@ -3,6 +3,10 @@
 Quantum Optimization for Last-Mile Delivery Route and Warehouse Inventory Planning
 Capstone ASAC-CP-006 (CSE-AIML), Alliance School of Advanced Computing
 
+**Live demo:** https://quantum-optimization-for-last-mile-6r1l.onrender.com
+
+Hosted on Render's free plan, so the first load can take about a minute to wake up. Demo logins are in the "Run locally" section below.
+
 ## Problem
 
 Perishable orders can be shipped from any of 3 warehouses. Shipping from the nearest one keeps trips short but lets stock expire. This app decides which warehouse ships each order, using stock expiry and distance, and compares several methods on the same orders.
