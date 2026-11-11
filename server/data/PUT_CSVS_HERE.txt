@@ -1,1 +1,0 @@
-Copy inventory.csv, orders_full.csv and warehouses.csv here.
