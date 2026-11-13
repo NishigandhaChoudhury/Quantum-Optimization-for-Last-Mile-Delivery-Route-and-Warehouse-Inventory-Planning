@@ -1,0 +1,9 @@
+level,method,alpha,expired,unserved,km_per_order,total_cost,pct_cost_vs_nearest,seeds_better_than_nearest
+low (360 orders),nearest,-,86.4 ± 2.1,62.2 ± 4.9,11.84,6687 ± 178,0.0%,0/5
+low (360 orders),FEFO,-,51.2 ± 3.3,10.4 ± 6.3,13.71,5874 ± 246,12.2%,5/5
+low (360 orders),greedy-cost,2.0,51.2 ± 3.3,10.4 ± 6.3,13.68,5861 ± 247,12.4%,5/5
+low (360 orders),joint-exact,1.0,66.6 ± 2.7,10.4 ± 6.3,13.28,5951 ± 233,11.0%,5/5
+high (720 orders),nearest,-,80.4 ± 5.1,298.6 ± 6.6,12.78,15549 ± 147,0.0%,0/5
+high (720 orders),FEFO,-,18.0 ± 8.1,228.0 ± 8.7,14.33,14161 ± 188,8.9%,5/5
+high (720 orders),greedy-cost,2.0,18.0 ± 8.1,227.8 ± 9.0,14.25,14121 ± 176,9.2%,5/5
+high (720 orders),joint-exact,1.0,37.0 ± 9.3,245.0 ± 11.0,13.88,14500 ± 235,6.8%,5/5

@@ -1,0 +1,14 @@
+wid,Product_Name,stock,remaining_days
+A,Bell Pepper,3,31
+A,Digestive Biscuit,2,178
+A,Grapes,1,131
+B,Bell Pepper,3,34
+B,Digestive Biscuit,3,29
+B,Egg (Turkey),3,37
+B,Grapes,3,20
+B,Mango,3,98
+C,Bell Pepper,2,147
+C,Digestive Biscuit,3,37
+C,Egg (Turkey),3,102
+C,Grapes,3,42
+C,Mango,3,84

@@ -1,0 +1,6 @@
+,units_expired,waste_pct,total_km,km_per_order,avg_minutes,served,unserved,seconds
+nearest (today's practice),89.0,17.0,3573.0,11.87,23.7,301.0,59.0,0.0
+sequential FEFO,58.0,11.0,4821.7,13.7,27.4,352.0,8.0,0.0
+joint exact,89.0,17.0,3962.1,12.04,24.1,329.0,31.0,0.1
+quantum-only (QAOA),89.0,17.0,3347.0,11.79,23.6,284.0,76.0,46.4
+hybrid (QAOA+repair+refine),89.0,17.0,3962.1,12.04,24.1,329.0,31.0,44.9
